@@ -146,3 +146,22 @@
 2024-03-29 12:04:17 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1824423245
 2024-03-29 12:04:22 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into the application by opting for Newsletter subscription
 2024-03-29 12:04:22 [INFO ] [Base] - [closeBrowser] Scenario Status is: PASSED
+2024-03-29 12:15:33 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2024-03-29 12:15:36 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started295700833
+2024-03-29 12:15:41 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into the application by providing all the fields
+2024-03-29 12:15:41 [INFO ] [Base] - [closeBrowser] Scenario Status is: PASSED
+2024-03-29 12:15:42 [INFO ] [Base] - [setUp] Scenario Started: Verify whether the user is not allowed to register on skipping mandatory fields
+2024-03-29 12:15:42 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2024-03-29 12:15:42 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1440939580
+2024-03-29 12:15:47 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify whether the user is not allowed to register on skipping mandatory fields
+2024-03-29 12:15:47 [INFO ] [Base] - [closeBrowser] Scenario Status is: PASSED
+2024-03-29 12:15:47 [INFO ] [Base] - [setUp] Scenario Started: Verify whether the user is able to register into the application by opting for Newsletter subscription
+2024-03-29 12:15:47 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2024-03-29 12:15:48 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started154449199
+2024-03-29 12:15:54 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into the application by opting for Newsletter subscription
+2024-03-29 12:15:54 [INFO ] [Base] - [closeBrowser] Scenario Status is: PASSED
+2024-03-29 12:15:54 [INFO ] [Base] - [setUp] Scenario Started: Verify whether the user is restricted from registring a duplicate account
+2024-03-29 12:15:54 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2024-03-29 12:15:55 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started490766432
+2024-03-29 12:15:59 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify whether the user is restricted from registring a duplicate account
+2024-03-29 12:15:59 [INFO ] [Base] - [closeBrowser] Scenario Status is: PASSED
