@@ -378,3 +378,110 @@
 2024-03-29 15:38:17 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1718918890
 2024-03-29 15:38:21 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify whether the user is restricted from registring a duplicate account
 2024-03-29 15:38:21 [INFO ] [Base] - [closeBrowser] Scenario Status is: PASSED
+2024-03-29 16:06:32 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2024-03-29 16:06:33 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started827099978
+2024-03-29 16:06:36 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify whether the User is able to search for products
+2024-03-29 16:06:36 [INFO ] [Base] - [closeBrowser] Scenario Status is: UNDEFINED
+2024-03-29 16:19:35 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2024-03-29 16:19:37 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1329492804
+2024-03-29 16:19:41 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify whether the User is able to search for products
+2024-03-29 16:19:41 [INFO ] [Base] - [closeBrowser] Scenario Status is: PASSED
+2024-03-29 16:21:05 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2024-03-29 16:21:07 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started2112135199
+2024-03-29 16:21:11 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify whether the User is able to search for products
+2024-03-29 16:21:11 [INFO ] [Base] - [closeBrowser] Scenario Status is: PASSED
+2024-03-29 16:21:11 [INFO ] [Base] - [setUp] Scenario Started: Verify whether the User is informed when the product being searched is not available
+2024-03-29 16:21:11 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2024-03-29 16:21:12 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started704387627
+2024-03-29 16:21:15 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify whether the User is informed when the product being searched is not available
+2024-03-29 16:21:15 [INFO ] [Base] - [closeBrowser] Scenario Status is: UNDEFINED
+2024-03-29 16:27:11 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2024-03-29 16:27:13 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started231498257
+2024-03-29 16:27:17 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify whether the User is able to search for products
+2024-03-29 16:27:17 [INFO ] [Base] - [closeBrowser] Scenario Status is: PASSED
+2024-03-29 16:27:41 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2024-03-29 16:27:43 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started231498257
+2024-03-29 16:27:47 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify whether the User is informed when the product being searched is not available
+2024-03-29 16:27:47 [INFO ] [Base] - [closeBrowser] Scenario Status is: PASSED
+2024-03-29 16:28:30 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2024-03-29 16:28:31 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started231498257
+2024-03-29 16:28:35 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify whether the User is able to search for products
+2024-03-29 16:28:35 [INFO ] [Base] - [closeBrowser] Scenario Status is: PASSED
+2024-03-29 16:28:46 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2024-03-29 16:28:48 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started231498257
+2024-03-29 16:28:52 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify whether the User is informed when the product being searched is not available
+2024-03-29 16:28:52 [INFO ] [Base] - [closeBrowser] Scenario Status is: PASSED
+2024-03-29 16:29:06 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2024-03-29 16:29:08 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started2075352262
+2024-03-29 16:29:12 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify whether the User is able to search for products
+2024-03-29 16:29:12 [INFO ] [Base] - [closeBrowser] Scenario Status is: PASSED
+2024-03-29 16:29:12 [INFO ] [Base] - [setUp] Scenario Started: Verify whether the User is informed when the product being searched is not available
+2024-03-29 16:29:12 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2024-03-29 16:29:13 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started71148574
+2024-03-29 16:29:17 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify whether the User is informed when the product being searched is not available
+2024-03-29 16:29:17 [INFO ] [Base] - [closeBrowser] Scenario Status is: PASSED
+2024-03-29 16:44:32 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2024-03-29 16:44:34 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started2095702106
+2024-03-29 16:44:38 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify whether the User is able to login with valid credentials
+2024-03-29 16:44:38 [INFO ] [Base] - [closeBrowser] Scenario Status is: PASSED
+2024-03-29 16:44:39 [INFO ] [Base] - [setUp] Scenario Started: Verify that the User is not able to login with invalid credentials
+2024-03-29 16:44:39 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2024-03-29 16:44:40 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started684220724
+2024-03-29 16:44:44 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify that the User is not able to login with invalid credentials
+2024-03-29 16:44:44 [INFO ] [Base] - [closeBrowser] Scenario Status is: PASSED
+2024-03-29 16:44:44 [INFO ] [Base] - [setUp] Scenario Started: Verify that the User is not able to login without providing credentials
+2024-03-29 16:44:44 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2024-03-29 16:44:45 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1705281026
+2024-03-29 16:44:50 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify that the User is not able to login without providing credentials
+2024-03-29 16:44:50 [INFO ] [Base] - [closeBrowser] Scenario Status is: PASSED
+2024-03-29 16:44:50 [INFO ] [Base] - [setUp] Scenario Started: Verify that the User is able to reset forgotten password
+2024-03-29 16:44:50 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2024-03-29 16:44:51 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1715189999
+2024-03-29 16:44:56 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify that the User is able to reset forgotten password
+2024-03-29 16:44:56 [INFO ] [Base] - [closeBrowser] Scenario Status is: PASSED
+2024-03-29 16:44:56 [INFO ] [Base] - [setUp] Scenario Started: Verify whether the user is able to register into the application by providing all the fields
+2024-03-29 16:44:56 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2024-03-29 16:44:57 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started2113919627
+2024-03-29 16:45:02 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into the application by providing all the fields
+2024-03-29 16:45:02 [INFO ] [Base] - [closeBrowser] Scenario Status is: PASSED
+2024-03-29 16:45:02 [INFO ] [Base] - [setUp] Scenario Started: Verify whether the user is not allowed to register on skipping mandatory fields
+2024-03-29 16:45:02 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2024-03-29 16:45:03 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1753113235
+2024-03-29 16:45:08 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify whether the user is not allowed to register on skipping mandatory fields
+2024-03-29 16:45:08 [INFO ] [Base] - [closeBrowser] Scenario Status is: PASSED
+2024-03-29 16:45:08 [INFO ] [Base] - [setUp] Scenario Started: Verify whether the user is able to register into the application by opting for Newsletter subscription
+2024-03-29 16:45:08 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2024-03-29 16:45:09 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started331216192
+2024-03-29 16:45:14 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into the application by opting for Newsletter subscription
+2024-03-29 16:45:14 [INFO ] [Base] - [closeBrowser] Scenario Status is: PASSED
+2024-03-29 16:45:14 [INFO ] [Base] - [setUp] Scenario Started: Verify whether the user is restricted from registring a duplicate account
+2024-03-29 16:45:14 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2024-03-29 16:45:15 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started130641029
+2024-03-29 16:45:20 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify whether the user is restricted from registring a duplicate account
+2024-03-29 16:45:20 [INFO ] [Base] - [closeBrowser] Scenario Status is: PASSED
+2024-03-29 16:45:20 [INFO ] [Base] - [setUp] Scenario Started: Verify whether the User is able to search for products
+2024-03-29 16:45:20 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2024-03-29 16:45:21 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1561936660
+2024-03-29 16:45:25 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify whether the User is able to search for products
+2024-03-29 16:45:25 [INFO ] [Base] - [closeBrowser] Scenario Status is: PASSED
+2024-03-29 16:45:25 [INFO ] [Base] - [setUp] Scenario Started: Verify whether the User is informed when the product being searched is not available
+2024-03-29 16:45:25 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2024-03-29 16:45:26 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1162595263
+2024-03-29 16:45:29 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify whether the User is informed when the product being searched is not available
+2024-03-29 16:45:29 [INFO ] [Base] - [closeBrowser] Scenario Status is: PASSED
+2024-03-29 17:36:40 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2024-03-29 17:36:42 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1921143808
+2024-03-29 17:36:42 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify whether user is able to place an order
+2024-03-29 17:36:42 [INFO ] [Base] - [closeBrowser] Scenario Status is: UNDEFINED
+2024-03-29 17:37:17 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2024-03-29 17:37:19 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1647402786
+2024-03-29 17:37:19 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify whether user is able to place an order
+2024-03-29 17:37:19 [INFO ] [Base] - [closeBrowser] Scenario Status is: UNDEFINED
+2024-03-29 17:38:48 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2024-03-29 17:38:50 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started2134915053
+2024-03-29 17:38:50 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify whether user is able to place an order
+2024-03-29 17:38:50 [INFO ] [Base] - [closeBrowser] Scenario Status is: UNDEFINED
+2024-03-29 17:54:12 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2024-03-29 17:54:14 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started2075352262
+2024-03-29 17:54:17 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify whether user is able to place an order
+2024-03-29 17:54:17 [INFO ] [Base] - [closeBrowser] Scenario Status is: PASSED

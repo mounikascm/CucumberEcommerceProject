@@ -15,7 +15,13 @@ public class HeaderSection {
 	
 	@FindBy(linkText="Login")
 	public static WebElement login;
-
+	
+	@FindBy(name = "search")
+	public static WebElement searchBox;
+	
+	@FindBy(xpath = "//i[@class='fa fa-search']")
+	public static WebElement searchButton ;
+	
 	
 	public HeaderSection() {
 		PageFactory.initElements(Base.driver, this);
