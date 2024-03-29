@@ -165,3 +165,216 @@
 2024-03-29 12:15:55 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started490766432
 2024-03-29 12:15:59 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify whether the user is restricted from registring a duplicate account
 2024-03-29 12:15:59 [INFO ] [Base] - [closeBrowser] Scenario Status is: PASSED
+2024-03-29 12:38:58 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2024-03-29 12:39:01 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1264701638
+2024-03-29 12:39:01 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify whether the User is able to login with valid credentials
+2024-03-29 12:39:01 [INFO ] [Base] - [closeBrowser] Scenario Status is: UNDEFINED
+2024-03-29 14:04:03 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2024-03-29 14:04:05 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1010156357
+2024-03-29 14:04:09 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify whether the User is able to login with valid credentials
+2024-03-29 14:04:09 [INFO ] [Base] - [closeBrowser] Scenario Status is: FAILED
+2024-03-29 14:05:13 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2024-03-29 14:05:15 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1263841085
+2024-03-29 14:05:20 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify whether the User is able to login with valid credentials
+2024-03-29 14:05:20 [INFO ] [Base] - [closeBrowser] Scenario Status is: PASSED
+2024-03-29 14:08:32 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2024-03-29 14:08:34 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started2075352262
+2024-03-29 14:08:39 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify whether the User is able to login with valid credentials
+2024-03-29 14:08:39 [INFO ] [Base] - [closeBrowser] Scenario Status is: PASSED
+2024-03-29 14:17:59 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2024-03-29 14:18:02 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started2075352262
+2024-03-29 14:18:07 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify whether the User is able to login with valid credentials
+2024-03-29 14:18:07 [INFO ] [Base] - [closeBrowser] Scenario Status is: PASSED
+2024-03-29 14:32:03 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2024-03-29 14:32:08 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2024-03-29 14:32:15 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started899675353
+2024-03-29 14:32:25 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started930900166
+2024-03-29 14:32:54 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2024-03-29 14:32:55 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started930900166
+2024-03-29 14:33:00 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify whether the User is able to login with valid credentials
+2024-03-29 14:33:00 [INFO ] [Base] - [closeBrowser] Scenario Status is: PASSED
+2024-03-29 14:33:13 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2024-03-29 14:33:14 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started2075352262
+2024-03-29 14:33:19 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify whether the User is able to login with valid credentials
+2024-03-29 14:33:19 [INFO ] [Base] - [closeBrowser] Scenario Status is: PASSED
+2024-03-29 14:33:25 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2024-03-29 14:33:27 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started2075352262
+2024-03-29 14:33:31 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify whether the User is able to login with valid credentials
+2024-03-29 14:33:31 [INFO ] [Base] - [closeBrowser] Scenario Status is: PASSED
+2024-03-29 14:33:43 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2024-03-29 14:33:45 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started526720216
+2024-03-29 14:33:50 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify whether the User is able to login with valid credentials
+2024-03-29 14:33:50 [INFO ] [Base] - [closeBrowser] Scenario Status is: PASSED
+2024-03-29 14:35:39 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2024-03-29 14:35:40 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started930900166
+2024-03-29 14:35:45 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify whether the User is able to login with valid credentials
+2024-03-29 14:35:45 [INFO ] [Base] - [closeBrowser] Scenario Status is: PASSED
+2024-03-29 14:39:51 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2024-03-29 14:39:52 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1699486292
+2024-03-29 14:39:57 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify whether the User is able to login with valid credentials
+2024-03-29 14:39:57 [INFO ] [Base] - [closeBrowser] Scenario Status is: PASSED
+2024-03-29 14:39:57 [INFO ] [Base] - [setUp] Scenario Started: Verify that the User is not able to login with invalid credentials
+2024-03-29 14:39:57 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2024-03-29 14:39:58 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started319061373
+2024-03-29 14:40:02 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify that the User is not able to login with invalid credentials
+2024-03-29 14:40:02 [INFO ] [Base] - [closeBrowser] Scenario Status is: UNDEFINED
+2024-03-29 14:43:51 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2024-03-29 14:43:52 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started555136651
+2024-03-29 14:43:57 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify that the User is not able to login with invalid credentials
+2024-03-29 14:43:57 [INFO ] [Base] - [closeBrowser] Scenario Status is: FAILED
+2024-03-29 14:44:08 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2024-03-29 14:44:09 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1541075662
+2024-03-29 14:44:14 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify whether the User is able to login with valid credentials
+2024-03-29 14:44:14 [INFO ] [Base] - [closeBrowser] Scenario Status is: PASSED
+2024-03-29 14:44:14 [INFO ] [Base] - [setUp] Scenario Started: Verify that the User is not able to login with invalid credentials
+2024-03-29 14:44:14 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2024-03-29 14:44:15 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1985869725
+2024-03-29 14:44:20 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify that the User is not able to login with invalid credentials
+2024-03-29 14:44:20 [INFO ] [Base] - [closeBrowser] Scenario Status is: FAILED
+2024-03-29 14:44:37 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2024-03-29 14:44:39 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started299783910
+2024-03-29 14:44:43 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify that the User is not able to login with invalid credentials
+2024-03-29 14:44:43 [INFO ] [Base] - [closeBrowser] Scenario Status is: FAILED
+2024-03-29 14:45:55 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2024-03-29 14:45:56 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started555136651
+2024-03-29 14:46:01 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify that the User is not able to login with invalid credentials
+2024-03-29 14:46:01 [INFO ] [Base] - [closeBrowser] Scenario Status is: PASSED
+2024-03-29 14:48:19 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2024-03-29 14:48:20 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started523794808
+2024-03-29 14:48:25 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify that the User is not able to login without providing credentials
+2024-03-29 14:48:25 [INFO ] [Base] - [closeBrowser] Scenario Status is: PASSED
+2024-03-29 14:48:57 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2024-03-29 14:48:59 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1699486292
+2024-03-29 14:49:04 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify whether the User is able to login with valid credentials
+2024-03-29 14:49:04 [INFO ] [Base] - [closeBrowser] Scenario Status is: PASSED
+2024-03-29 14:49:04 [INFO ] [Base] - [setUp] Scenario Started: Verify that the User is not able to login with invalid credentials
+2024-03-29 14:49:04 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2024-03-29 14:49:05 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started737935282
+2024-03-29 14:49:09 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify that the User is not able to login with invalid credentials
+2024-03-29 14:49:09 [INFO ] [Base] - [closeBrowser] Scenario Status is: PASSED
+2024-03-29 14:49:09 [INFO ] [Base] - [setUp] Scenario Started: Verify that the User is not able to login without providing credentials
+2024-03-29 14:49:09 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2024-03-29 14:49:13 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started450420562
+2024-03-29 14:49:22 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify that the User is not able to login without providing credentials
+2024-03-29 14:49:22 [INFO ] [Base] - [closeBrowser] Scenario Status is: PASSED
+2024-03-29 14:51:07 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2024-03-29 14:51:15 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started891175246
+2024-03-29 14:51:20 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify that the User is able to reset forgotten password
+2024-03-29 14:51:20 [INFO ] [Base] - [closeBrowser] Scenario Status is: UNDEFINED
+2024-03-29 15:16:19 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2024-03-29 15:16:21 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started492045670
+2024-03-29 15:16:25 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify that the User is able to reset forgotten password
+2024-03-29 15:16:25 [INFO ] [Base] - [closeBrowser] Scenario Status is: UNDEFINED
+2024-03-29 15:16:56 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2024-03-29 15:16:58 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1359603919
+2024-03-29 15:17:01 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify that the User is able to reset forgotten password
+2024-03-29 15:17:01 [INFO ] [Base] - [closeBrowser] Scenario Status is: UNDEFINED
+2024-03-29 15:18:14 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2024-03-29 15:18:16 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1876390738
+2024-03-29 15:18:20 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify that the User is able to reset forgotten password
+2024-03-29 15:18:20 [INFO ] [Base] - [closeBrowser] Scenario Status is: UNDEFINED
+2024-03-29 15:20:53 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2024-03-29 15:20:54 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1876390738
+2024-03-29 15:20:58 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify that the User is able to reset forgotten password
+2024-03-29 15:20:58 [INFO ] [Base] - [closeBrowser] Scenario Status is: UNDEFINED
+2024-03-29 15:21:46 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2024-03-29 15:21:47 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started435297131
+2024-03-29 15:21:52 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify whether the User is able to login with valid credentials
+2024-03-29 15:21:52 [INFO ] [Base] - [closeBrowser] Scenario Status is: PASSED
+2024-03-29 15:21:52 [INFO ] [Base] - [setUp] Scenario Started: Verify that the User is not able to login with invalid credentials
+2024-03-29 15:21:52 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2024-03-29 15:21:53 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1048903970
+2024-03-29 15:21:58 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify that the User is not able to login with invalid credentials
+2024-03-29 15:21:58 [INFO ] [Base] - [closeBrowser] Scenario Status is: PASSED
+2024-03-29 15:21:58 [INFO ] [Base] - [setUp] Scenario Started: Verify that the User is not able to login without providing credentials
+2024-03-29 15:21:58 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2024-03-29 15:21:59 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1133730108
+2024-03-29 15:22:03 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify that the User is not able to login without providing credentials
+2024-03-29 15:22:03 [INFO ] [Base] - [closeBrowser] Scenario Status is: PASSED
+2024-03-29 15:22:03 [INFO ] [Base] - [setUp] Scenario Started: Verify that the User is able to reset forgotten password
+2024-03-29 15:22:03 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2024-03-29 15:22:04 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1648387359
+2024-03-29 15:22:08 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify that the User is able to reset forgotten password
+2024-03-29 15:22:08 [INFO ] [Base] - [closeBrowser] Scenario Status is: UNDEFINED
+2024-03-29 15:23:08 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2024-03-29 15:23:10 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1188671176
+2024-03-29 15:23:17 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify that the User is able to reset forgotten password
+2024-03-29 15:23:17 [INFO ] [Base] - [closeBrowser] Scenario Status is: FAILED
+2024-03-29 15:24:25 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2024-03-29 15:24:26 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1188671176
+2024-03-29 15:24:32 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify that the User is able to reset forgotten password
+2024-03-29 15:24:32 [INFO ] [Base] - [closeBrowser] Scenario Status is: FAILED
+2024-03-29 15:26:08 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2024-03-29 15:26:09 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1188671176
+2024-03-29 15:26:14 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify that the User is able to reset forgotten password
+2024-03-29 15:26:14 [INFO ] [Base] - [closeBrowser] Scenario Status is: FAILED
+2024-03-29 15:27:24 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2024-03-29 15:27:26 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1188671176
+2024-03-29 15:27:31 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify that the User is able to reset forgotten password
+2024-03-29 15:27:31 [INFO ] [Base] - [closeBrowser] Scenario Status is: FAILED
+2024-03-29 15:31:59 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2024-03-29 15:32:01 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1188671176
+2024-03-29 15:32:07 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify that the User is able to reset forgotten password
+2024-03-29 15:32:07 [INFO ] [Base] - [closeBrowser] Scenario Status is: FAILED
+2024-03-29 15:33:33 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2024-03-29 15:33:35 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started348084146
+2024-03-29 15:33:40 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify that the User is able to reset forgotten password
+2024-03-29 15:33:40 [INFO ] [Base] - [closeBrowser] Scenario Status is: PASSED
+2024-03-29 15:34:49 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2024-03-29 15:34:50 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started485047320
+2024-03-29 15:34:55 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify whether the User is able to login with valid credentials
+2024-03-29 15:34:55 [INFO ] [Base] - [closeBrowser] Scenario Status is: PASSED
+2024-03-29 15:34:55 [INFO ] [Base] - [setUp] Scenario Started: Verify that the User is not able to login with invalid credentials
+2024-03-29 15:34:55 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2024-03-29 15:34:56 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1249337777
+2024-03-29 15:35:00 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify that the User is not able to login with invalid credentials
+2024-03-29 15:35:00 [INFO ] [Base] - [closeBrowser] Scenario Status is: PASSED
+2024-03-29 15:35:00 [INFO ] [Base] - [setUp] Scenario Started: Verify that the User is not able to login without providing credentials
+2024-03-29 15:35:00 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2024-03-29 15:35:01 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started527247308
+2024-03-29 15:35:06 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify that the User is not able to login without providing credentials
+2024-03-29 15:35:06 [INFO ] [Base] - [closeBrowser] Scenario Status is: PASSED
+2024-03-29 15:35:06 [INFO ] [Base] - [setUp] Scenario Started: Verify that the User is able to reset forgotten password
+2024-03-29 15:35:06 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2024-03-29 15:35:07 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started847174133
+2024-03-29 15:35:12 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify that the User is able to reset forgotten password
+2024-03-29 15:35:12 [INFO ] [Base] - [closeBrowser] Scenario Status is: PASSED
+2024-03-29 15:37:34 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2024-03-29 15:37:36 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started576191199
+2024-03-29 15:37:40 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify whether the User is able to login with valid credentials
+2024-03-29 15:37:40 [INFO ] [Base] - [closeBrowser] Scenario Status is: PASSED
+2024-03-29 15:37:41 [INFO ] [Base] - [setUp] Scenario Started: Verify that the User is not able to login with invalid credentials
+2024-03-29 15:37:41 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2024-03-29 15:37:42 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started448782465
+2024-03-29 15:37:46 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify that the User is not able to login with invalid credentials
+2024-03-29 15:37:46 [INFO ] [Base] - [closeBrowser] Scenario Status is: PASSED
+2024-03-29 15:37:46 [INFO ] [Base] - [setUp] Scenario Started: Verify that the User is not able to login without providing credentials
+2024-03-29 15:37:46 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2024-03-29 15:37:47 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1156135967
+2024-03-29 15:37:52 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify that the User is not able to login without providing credentials
+2024-03-29 15:37:52 [INFO ] [Base] - [closeBrowser] Scenario Status is: PASSED
+2024-03-29 15:37:52 [INFO ] [Base] - [setUp] Scenario Started: Verify that the User is able to reset forgotten password
+2024-03-29 15:37:52 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2024-03-29 15:37:53 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started182584006
+2024-03-29 15:37:58 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify that the User is able to reset forgotten password
+2024-03-29 15:37:58 [INFO ] [Base] - [closeBrowser] Scenario Status is: PASSED
+2024-03-29 15:37:58 [INFO ] [Base] - [setUp] Scenario Started: Verify whether the user is able to register into the application by providing all the fields
+2024-03-29 15:37:58 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2024-03-29 15:37:59 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started47925969
+2024-03-29 15:38:04 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into the application by providing all the fields
+2024-03-29 15:38:04 [INFO ] [Base] - [closeBrowser] Scenario Status is: PASSED
+2024-03-29 15:38:04 [INFO ] [Base] - [setUp] Scenario Started: Verify whether the user is not allowed to register on skipping mandatory fields
+2024-03-29 15:38:04 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2024-03-29 15:38:05 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started376660032
+2024-03-29 15:38:09 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify whether the user is not allowed to register on skipping mandatory fields
+2024-03-29 15:38:09 [INFO ] [Base] - [closeBrowser] Scenario Status is: PASSED
+2024-03-29 15:38:09 [INFO ] [Base] - [setUp] Scenario Started: Verify whether the user is able to register into the application by opting for Newsletter subscription
+2024-03-29 15:38:09 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2024-03-29 15:38:10 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started145664926
+2024-03-29 15:38:15 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into the application by opting for Newsletter subscription
+2024-03-29 15:38:15 [INFO ] [Base] - [closeBrowser] Scenario Status is: PASSED
+2024-03-29 15:38:16 [INFO ] [Base] - [setUp] Scenario Started: Verify whether the user is restricted from registring a duplicate account
+2024-03-29 15:38:16 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2024-03-29 15:38:17 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1718918890
+2024-03-29 15:38:21 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify whether the user is restricted from registring a duplicate account
+2024-03-29 15:38:21 [INFO ] [Base] - [closeBrowser] Scenario Status is: PASSED
