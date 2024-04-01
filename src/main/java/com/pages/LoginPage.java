@@ -3,6 +3,7 @@ package com.pages;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
+import org.openqa.selenium.support.ui.Wait;
 
 import com.base.Base;
 import com.framework.Elements;
@@ -36,5 +37,11 @@ public static void doLogin(String email,String password) {
     Elements.TypeText(LoginPage.passwordField,password );
     Elements.click(LoginPage.loginButton);
 
+}
+
+public static void doLogin() {
+	Elements.TypeText(LoginPage.emailField, Base.reader.getUserName());
+	Elements.TypeText(LoginPage.passwordField, Base.reader.getPassword());
+	Elements.click(LoginPage.loginButton);
 }
 }

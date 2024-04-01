@@ -30,7 +30,23 @@ public class PropertyFileReader implements ConfigurationReader{
 	}
 
 	
+	
+
+	@Override
+	public String getUserName() {
+		return properties.getProperty("userName");
 	}
+	
+	public String getPassword() {
+		return properties.getProperty("Password");
+	
+	}
+
+	@Override
+	public String getProduct() {
+		return properties.getProperty("Product");
+	}
+}
 
 
 

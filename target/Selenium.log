@@ -485,3 +485,150 @@
 2024-03-29 17:54:14 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started2075352262
 2024-03-29 17:54:17 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify whether user is able to place an order
 2024-03-29 17:54:17 [INFO ] [Base] - [closeBrowser] Scenario Status is: PASSED
+2024-03-29 17:55:48 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2024-03-29 17:55:50 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started2075352262
+2024-03-29 17:55:53 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify whether user is able to place an order
+2024-03-29 17:55:53 [INFO ] [Base] - [closeBrowser] Scenario Status is: PASSED
+2024-04-01 15:23:02 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2024-04-01 15:23:25 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1007402143
+2024-04-01 15:23:31 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify whether user is able to place an order
+2024-04-01 15:23:31 [INFO ] [Base] - [closeBrowser] Scenario Status is: FAILED
+2024-04-01 15:50:43 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2024-04-01 15:50:46 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1263841085
+2024-04-01 15:50:50 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify whether user is able to place an order
+2024-04-01 15:50:50 [INFO ] [Base] - [closeBrowser] Scenario Status is: FAILED
+2024-04-01 15:50:59 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2024-04-01 15:51:00 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2024-04-01 15:51:02 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started2075352262
+2024-04-01 15:51:03 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1263841085
+2024-04-01 15:51:06 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify whether user is able to place an order
+2024-04-01 15:51:06 [INFO ] [Base] - [closeBrowser] Scenario Status is: FAILED
+2024-04-01 15:51:06 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify whether user is able to place an order
+2024-04-01 15:51:06 [INFO ] [Base] - [closeBrowser] Scenario Status is: FAILED
+2024-04-01 15:51:09 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2024-04-01 15:51:11 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started324579982
+2024-04-01 15:51:15 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify whether user is able to place an order
+2024-04-01 15:51:15 [INFO ] [Base] - [closeBrowser] Scenario Status is: FAILED
+2024-04-01 15:58:45 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2024-04-01 15:58:47 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started2075352262
+2024-04-01 15:58:51 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify whether user is able to place an order
+2024-04-01 15:58:51 [INFO ] [Base] - [closeBrowser] Scenario Status is: FAILED
+2024-04-01 15:59:13 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2024-04-01 15:59:16 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started644499453
+2024-04-01 15:59:20 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify whether user is able to place an order
+2024-04-01 15:59:20 [INFO ] [Base] - [closeBrowser] Scenario Status is: FAILED
+2024-04-01 15:59:24 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2024-04-01 15:59:26 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started444127949
+2024-04-01 15:59:30 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify whether user is able to place an order
+2024-04-01 15:59:30 [INFO ] [Base] - [closeBrowser] Scenario Status is: FAILED
+2024-04-01 16:00:51 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2024-04-01 16:00:53 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started2075352262
+2024-04-01 16:00:57 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify whether user is able to place an order
+2024-04-01 16:00:57 [INFO ] [Base] - [closeBrowser] Scenario Status is: FAILED
+2024-04-01 16:01:12 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2024-04-01 16:01:12 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2024-04-01 16:01:16 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started177457048
+2024-04-01 16:01:16 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started177457048
+2024-04-01 16:01:21 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify whether user is able to place an order
+2024-04-01 16:01:21 [INFO ] [Base] - [closeBrowser] Scenario Status is: FAILED
+2024-04-01 16:01:21 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify whether user is able to place an order
+2024-04-01 16:01:21 [INFO ] [Base] - [closeBrowser] Scenario Status is: FAILED
+2024-04-01 16:01:39 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2024-04-01 16:01:42 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started177457048
+2024-04-01 16:01:46 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify whether user is able to place an order
+2024-04-01 16:01:46 [INFO ] [Base] - [closeBrowser] Scenario Status is: FAILED
+2024-04-01 16:01:58 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2024-04-01 16:02:00 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started177457048
+2024-04-01 16:02:04 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify whether user is able to place an order
+2024-04-01 16:02:04 [INFO ] [Base] - [closeBrowser] Scenario Status is: FAILED
+2024-04-01 16:02:16 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2024-04-01 16:02:18 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started2075352262
+2024-04-01 16:02:22 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify whether user is able to place an order
+2024-04-01 16:02:22 [INFO ] [Base] - [closeBrowser] Scenario Status is: FAILED
+2024-04-01 16:02:25 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2024-04-01 16:02:27 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started435297131
+2024-04-01 16:02:31 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify whether user is able to place an order
+2024-04-01 16:02:31 [INFO ] [Base] - [closeBrowser] Scenario Status is: FAILED
+2024-04-01 16:05:15 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2024-04-01 16:05:17 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started2075352262
+2024-04-01 16:05:21 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify whether user is able to place an order
+2024-04-01 16:05:21 [INFO ] [Base] - [closeBrowser] Scenario Status is: FAILED
+2024-04-01 16:05:50 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2024-04-01 16:05:52 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started444127949
+2024-04-01 16:05:56 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify whether user is able to place an order
+2024-04-01 16:05:56 [INFO ] [Base] - [closeBrowser] Scenario Status is: FAILED
+2024-04-01 16:08:33 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2024-04-01 16:08:35 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started324579982
+2024-04-01 16:09:02 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify whether user is able to place an order
+2024-04-01 16:09:02 [INFO ] [Base] - [closeBrowser] Scenario Status is: FAILED
+2024-04-01 16:13:06 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2024-04-01 16:13:07 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started444127949
+2024-04-01 16:13:34 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify whether user is able to place an order
+2024-04-01 16:13:34 [INFO ] [Base] - [closeBrowser] Scenario Status is: FAILED
+2024-04-01 16:15:15 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2024-04-01 16:15:16 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started444127949
+2024-04-01 16:15:43 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify whether user is able to place an order
+2024-04-01 16:15:43 [INFO ] [Base] - [closeBrowser] Scenario Status is: FAILED
+2024-04-01 16:18:12 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2024-04-01 16:18:14 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started324579982
+2024-04-01 16:18:41 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify whether user is able to place an order
+2024-04-01 16:18:41 [INFO ] [Base] - [closeBrowser] Scenario Status is: FAILED
+2024-04-01 16:19:36 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2024-04-01 16:19:37 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started444127949
+2024-04-01 16:20:05 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify whether user is able to place an order
+2024-04-01 16:20:05 [INFO ] [Base] - [closeBrowser] Scenario Status is: FAILED
+2024-04-01 16:22:33 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2024-04-01 16:22:35 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started324579982
+2024-04-01 16:23:02 [INFO ] [Browser] - [takeScreenshot] Exception has Occured while taking screenshot
+2024-04-01 16:23:25 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2024-04-01 16:23:27 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started426070939
+2024-04-01 16:23:54 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify whether user is able to place an order
+2024-04-01 16:23:54 [INFO ] [Base] - [closeBrowser] Scenario Status is: FAILED
+2024-04-01 16:25:10 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2024-04-01 16:25:11 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1174687658
+2024-04-01 16:25:38 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify whether user is able to place an order
+2024-04-01 16:25:38 [INFO ] [Base] - [closeBrowser] Scenario Status is: FAILED
+2024-04-01 16:27:57 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2024-04-01 16:27:59 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started324579982
+2024-04-01 16:28:06 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify whether user is able to place an order
+2024-04-01 16:28:06 [INFO ] [Base] - [closeBrowser] Scenario Status is: FAILED
+2024-04-01 16:29:09 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2024-04-01 16:29:10 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1174687658
+2024-04-01 16:29:20 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify whether user is able to place an order
+2024-04-01 16:29:20 [INFO ] [Base] - [closeBrowser] Scenario Status is: PASSED
+2024-04-01 16:30:38 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2024-04-01 16:30:40 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started324579982
+2024-04-01 16:30:47 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify whether user is able to place an order
+2024-04-01 16:30:47 [INFO ] [Base] - [closeBrowser] Scenario Status is: FAILED
+2024-04-01 16:32:05 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2024-04-01 16:32:06 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started324579982
+2024-04-01 16:32:34 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify whether user is able to place an order
+2024-04-01 16:32:34 [INFO ] [Base] - [closeBrowser] Scenario Status is: FAILED
+2024-04-01 16:33:37 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2024-04-01 16:33:38 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started324579982
+2024-04-01 16:34:36 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify whether user is able to place an order
+2024-04-01 16:34:36 [INFO ] [Base] - [closeBrowser] Scenario Status is: FAILED
+2024-04-01 16:36:46 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2024-04-01 16:36:47 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started324579982
+2024-04-01 16:36:54 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify whether user is able to place an order
+2024-04-01 16:36:54 [INFO ] [Base] - [closeBrowser] Scenario Status is: FAILED
+2024-04-01 16:46:07 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2024-04-01 16:46:09 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started324579982
+2024-04-01 16:46:17 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify whether user is able to place an order
+2024-04-01 16:46:17 [INFO ] [Base] - [closeBrowser] Scenario Status is: FAILED
+2024-04-01 16:48:40 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2024-04-01 16:48:41 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started324579982
+2024-04-01 16:48:48 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify whether user is able to place an order
+2024-04-01 16:48:48 [INFO ] [Base] - [closeBrowser] Scenario Status is: FAILED
+2024-04-01 16:49:23 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2024-04-01 16:49:24 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started324579982
+2024-04-01 16:50:21 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify whether user is able to place an order
+2024-04-01 16:50:21 [INFO ] [Base] - [closeBrowser] Scenario Status is: FAILED
+2024-04-01 16:51:37 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2024-04-01 16:51:38 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started324579982
+2024-04-01 16:51:45 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify whether user is able to place an order
+2024-04-01 16:51:45 [INFO ] [Base] - [closeBrowser] Scenario Status is: PASSED
+2024-04-01 16:52:10 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2024-04-01 16:52:12 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started324579982
+2024-04-01 16:52:19 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify whether user is able to place an order
+2024-04-01 16:52:19 [INFO ] [Base] - [closeBrowser] Scenario Status is: FAILED
