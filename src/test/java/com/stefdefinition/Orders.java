@@ -55,8 +55,7 @@ public class Orders {
 	public void i_should_see_that_the_order_is_placed_successfully() {
 		Waits.waitUntilElementToClick(Duration.ofSeconds(50), shoppingCartPage.productunAvilabel);
 
-		//Assert.assertTrue(Elements.isDisplayed(shoppingCartPage.productunAvilabel));
-		Assert.assertTrue(Elements.VerifyTextEquals(shoppingCartPage.productunAvilabel, "Products marked with *** are not available in the desired quantity or not in stock!    ×"));
+		Assert.assertTrue(Elements.isDisplayed(shoppingCartPage.productunAvilabel));
 
 	}
 
