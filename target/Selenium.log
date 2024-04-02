@@ -686,3 +686,57 @@
 2024-04-01 17:54:56 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started790598933
 2024-04-01 17:55:02 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify whether the User is informed when the product being searched is not available
 2024-04-01 17:55:02 [INFO ] [Base] - [closeBrowser] Scenario Status is: PASSED
+2024-04-02 08:59:56 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2024-04-02 09:00:14 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started136011184
+2024-04-02 09:00:23 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify whether the User is able to login with valid credentials
+2024-04-02 09:00:23 [INFO ] [Base] - [closeBrowser] Scenario Status is: PASSED
+2024-04-02 09:00:23 [INFO ] [Base] - [setUp] Scenario Started: Verify that the User is not able to login with invalid credentials
+2024-04-02 09:00:23 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2024-04-02 09:00:24 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started955061147
+2024-04-02 09:00:29 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify that the User is not able to login with invalid credentials
+2024-04-02 09:00:29 [INFO ] [Base] - [closeBrowser] Scenario Status is: PASSED
+2024-04-02 09:00:29 [INFO ] [Base] - [setUp] Scenario Started: Verify that the User is not able to login without providing credentials
+2024-04-02 09:00:29 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2024-04-02 09:00:30 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started2070295086
+2024-04-02 09:00:34 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify that the User is not able to login without providing credentials
+2024-04-02 09:00:34 [INFO ] [Base] - [closeBrowser] Scenario Status is: PASSED
+2024-04-02 09:00:34 [INFO ] [Base] - [setUp] Scenario Started: Verify that the User is able to reset forgotten password
+2024-04-02 09:00:34 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2024-04-02 09:00:35 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started569305423
+2024-04-02 09:00:41 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify that the User is able to reset forgotten password
+2024-04-02 09:00:41 [INFO ] [Base] - [closeBrowser] Scenario Status is: PASSED
+2024-04-02 09:00:41 [INFO ] [Base] - [setUp] Scenario Started: Verify whether user is able to place an order
+2024-04-02 09:00:41 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2024-04-02 09:00:42 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started483669346
+2024-04-02 09:00:49 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify whether user is able to place an order
+2024-04-02 09:00:49 [INFO ] [Base] - [closeBrowser] Scenario Status is: PASSED
+2024-04-02 09:00:49 [INFO ] [Base] - [setUp] Scenario Started: Verify whether the user is able to register into the application by providing all the fields
+2024-04-02 09:00:49 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2024-04-02 09:00:50 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1000419469
+2024-04-02 09:00:55 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into the application by providing all the fields
+2024-04-02 09:00:55 [INFO ] [Base] - [closeBrowser] Scenario Status is: PASSED
+2024-04-02 09:00:55 [INFO ] [Base] - [setUp] Scenario Started: Verify whether the user is not allowed to register on skipping mandatory fields
+2024-04-02 09:00:55 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2024-04-02 09:00:56 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1929115981
+2024-04-02 09:01:01 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify whether the user is not allowed to register on skipping mandatory fields
+2024-04-02 09:01:01 [INFO ] [Base] - [closeBrowser] Scenario Status is: PASSED
+2024-04-02 09:01:01 [INFO ] [Base] - [setUp] Scenario Started: Verify whether the user is able to register into the application by opting for Newsletter subscription
+2024-04-02 09:01:01 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2024-04-02 09:01:02 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1207758771
+2024-04-02 09:01:07 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into the application by opting for Newsletter subscription
+2024-04-02 09:01:07 [INFO ] [Base] - [closeBrowser] Scenario Status is: PASSED
+2024-04-02 09:01:07 [INFO ] [Base] - [setUp] Scenario Started: Verify whether the user is restricted from registring a duplicate account
+2024-04-02 09:01:07 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2024-04-02 09:01:08 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started435070844
+2024-04-02 09:01:13 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify whether the user is restricted from registring a duplicate account
+2024-04-02 09:01:13 [INFO ] [Base] - [closeBrowser] Scenario Status is: PASSED
+2024-04-02 09:01:13 [INFO ] [Base] - [setUp] Scenario Started: Verify whether the User is able to search for products
+2024-04-02 09:01:13 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2024-04-02 09:01:14 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started627419088
+2024-04-02 09:01:18 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify whether the User is able to search for products
+2024-04-02 09:01:18 [INFO ] [Base] - [closeBrowser] Scenario Status is: PASSED
+2024-04-02 09:01:18 [INFO ] [Base] - [setUp] Scenario Started: Verify whether the User is informed when the product being searched is not available
+2024-04-02 09:01:18 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2024-04-02 09:01:19 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started361021465
+2024-04-02 09:01:23 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify whether the User is informed when the product being searched is not available
+2024-04-02 09:01:23 [INFO ] [Base] - [closeBrowser] Scenario Status is: PASSED
